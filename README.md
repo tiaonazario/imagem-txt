@@ -6,8 +6,8 @@ System created to convert image texts into txt files
 
 ## :books: Functionalities
 
-* <b>Folder</b>: Convert all images in a folder to txt.
-* <b>File</b>: Convert a specific image to txt.
+- **Folder:** Convert all images in a folder to txt.
+- **File:** Convert a specific image to txt.
 
 ### 🖥 Design
 
@@ -19,18 +19,23 @@ System created to convert image texts into txt files
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <span>Python</span>
 </a>
+
+<a href="https://pypi.org/project/PySide6/">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <span>PySide6</span>
+</a>
  
- ## :rocket: Running the project
+## :rocket: Running the project
  
- To run the project, it is necessary to follow the next steps.
+To run the project, it is necessary to follow the next steps.
   
- ### Step 1 - Clone the repository
+### Step 1 - Clone the repository
 
 ```git
 git clone https://github.com/tiaonazario/img-txt.git
 ```
  
- ### Step 2 - Install the packages
+### Step 2 - Install the packages
 
 ```powershell
 pip install pytesseract
