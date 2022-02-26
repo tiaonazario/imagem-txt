@@ -2,7 +2,9 @@
 
 ## :memo: Description
 
-System created to convert image texts into txt files
+System created to convert image texts into txt files.
+
+[Link to Youtube](https://youtu.be/HIw7eMDP3Xs)
 
 ## :books: Functionalities
 
